@@ -148,7 +148,10 @@
           </a>
         </button>
         <button type="button" name="button" class="button two">
-          Add Section</button>
+          <a href="/home">
+            Home
+          </a>
+        </button>
       </div>
     </div>
 
